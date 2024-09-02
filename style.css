@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
+
+
+body {
+    background-image: radial-gradient(circle, #ef81eb, #e686ec, #de8bed, #d690ed, #ce94ec);
+}
+
+header {
+    background-color: #ce94ec;
+    justify-content: center;
+}
+
+header img {
+    border-radius: 50%;
+    width: 80px;
+    margin: 8px;
+
+}
+
+header ul {
+    list-style: none;
+    align-items: center;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row
+}
+
+header ul li {
+    font-size: 20px;
+
+}
+
+
+h1 {
+    font-size: 60px;
+    color: rgb(51, 5, 51);
+    font-family: "Dosis";
+    text-align: center;
+}
+
+.pre {
+    background-image: radial-gradient(circle, #ef81eb, #e686ec, #de8bed, #d690ed, #ce94ec);
+    font-size: 20px;
+    text-align: center;
+    margin: 30px;
+}
+
+.pre img {
+    border-radius: 50%;
+    width: 250px;
+}
+
+h2 {
+    color: rgb(51, 5, 51);
+    font-family: "Dosis";
+    font-size: 20px;
+}
+
+.tabla1 {
+    background-image: radial-gradient(circle, #ef81eb, #e686ec, #de8bed, #d690ed, #ce94ec);
+
+    text-align: center;
+    font-size: 15px;
+    margin: 10px;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row
+}
+
+.tabla1 img {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 400px;
+    max-width: 100%;
+    height: auto;
+}
+
+
+.tabla2 {
+    background-image: radial-gradient(circle, #ef81eb, #e686ec, #de8bed, #d690ed, #ce94ec);
+
+    text-align: center;
+    font-size: 15px;
+    margin: 10px;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row
+}
+
+.tabla2 img {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 400px;
+    max-width: 100%;
+    height: auto;
+
+}
+
+
+.tiktok {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    text-align: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.tiktok p {
+    font-size: 15px;
+
+}
+
+
+
+.tabla3 {
+    background-image: radial-gradient(circle, #ef81eb, #e686ec, #de8bed, #d690ed, #ce94ec);
+    text-align: center;
+    font-size: 15px;
+    margin: 10px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row
+}
+
+.tabla3 img {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 400px;
+    max-width: 100%;
+    height: auto;
+
+}
+
+
+.tabla4 {
+    background-image: radial-gradient(circle, #ef81eb, #e686ec, #de8bed, #d690ed, #ce94ec);
+    text-align: center;
+    font-size: 15px;
+    margin: 10px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row
+}
+
+.tabla4 img {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 400px;
+    max-width: 100%;
+    height: auto;
+
+}
+
+footer ul {
+    list-style: none;
+    align-items: center;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row
+}
+
+footer {
+    justify-content: center;
+    padding: 20px;
+    font-size: 14px;
+}
